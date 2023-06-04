@@ -1,0 +1,9 @@
+macOS
+Linux-based;Windows
+macOS;Windows
+Linux-based
+Windows
+macOS
+Linux-based
+Linux-based
+Linux-based;Windows;Windows Subsystem for Linux (WSL)
